@@ -1,7 +1,7 @@
 {
   "name": "apostrophe-google-spreadsheet",
   "version": "0.0.1",
-  "description": "",
+  "description": "Link your apostrophe project with a spreadsheet in google drive. Sync the data as JSON and store it in its own mongo collection. Takes simple, apostrophe-site configuration in app js. Exposes a command line task and apostrophe UI for initiating a sync.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,18 @@
     "async": "*"
   },
   "author": "Kerry Gilbert <kerry@punkave.com> (http://punkave.com/)",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/punkave/apostrophe-google-spreadsheet.git"
+  },
+  "keywords": [
+    "google",
+    "spreadsheets"
+  ],
+  "bugs": {
+    "url": "https://github.com/punkave/apostrophe-google-spreadsheet/issues"
+  },
+  "homepage": "https://github.com/punkave/apostrophe-google-spreadsheet"
 }

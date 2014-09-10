@@ -26,6 +26,7 @@ Spreadsheet = function(options, callback) {
       return next();
     }
 
+    // return an unauthorized message or redirect or whatever
     return res.end('UNAUTHORIZED');
   }
 
