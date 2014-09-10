@@ -1,0 +1,15 @@
+{
+  "name": "apostrophe-google-spreadsheet",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "underscore": "1.7.x",
+    "async": "*"
+  },
+  "author": "Kerry Gilbert <kerry@punkave.com> (http://punkave.com/)",
+  "license": "ISC"
+}
