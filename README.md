@@ -54,3 +54,7 @@ self.app.get('/sheet-json', function(req, res) {
   });
 });
 ```
+
+#### To - Do
+Create aposLocal "aposSpreadsheetsMenu" and necessary templates to include sync button the admin bar
+
