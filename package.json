@@ -8,7 +8,8 @@
   },
   "dependencies": {
     "underscore": "1.7.x",
-    "async": "*"
+    "async": "*",
+    "edit-google-spreadsheet": "*"
   },
   "author": "Kerry Gilbert <kerry@punkave.com> (http://punkave.com/)",
   "license": "ISC",
