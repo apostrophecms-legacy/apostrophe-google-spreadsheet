@@ -7,8 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "underscore": "1.7.x",
-    "async": "*",
     "edit-google-spreadsheet": "*"
   },
   "author": "Kerry Gilbert <kerry@punkave.com> (http://punkave.com/)",
