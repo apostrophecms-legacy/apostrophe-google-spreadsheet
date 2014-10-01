@@ -1,6 +1,6 @@
 {
   "name": "apostrophe-google-spreadsheet",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Link your apostrophe project with a spreadsheet in google drive. Sync the data as JSON and store it in its own mongo collection. Takes simple, apostrophe-site configuration in app js. Exposes a command line task and apostrophe UI for initiating a sync.",
   "main": "index.js",
   "scripts": {
