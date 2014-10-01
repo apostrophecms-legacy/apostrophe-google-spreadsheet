@@ -34,7 +34,7 @@ $ node app apostrophe:sync-google-spreadsheet
 ```
 
 ####  2. Hit the /sync route with an ajax call or in browser
-localhost:3000/apostrophe-google-spreadsheet/sync
+localhost:3000/apos-google-spreadsheet/sync
 
 By default, the data is stored in a mongo collection called "aposSheets". If you'd like this to be something different, just specify a collectionName in your options when initializing the module.
 
@@ -54,3 +54,7 @@ self.app.get('/sheet-json', function(req, res) {
   });
 });
 ```
+
+#### To - Do
+Create aposLocal "aposSpreadsheetsMenu" and necessary templates to include sync button the admin bar
+
