@@ -70,9 +70,9 @@ Spreadsheet = function(options, callback) {
 
       console.log(stdout);
       console.log(stderr);
-    });
 
-    return res.end('Sync task initialized.');
+      return res.end('done');
+    });
   });
 
   // Expose a get method so other modules can make queries on our collection
