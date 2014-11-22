@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "edit-google-spreadsheet": "*",
-    "ent": "*"
+    "he": "*"
   },
   "author": "Kerry Gilbert <kerry@punkave.com> (http://punkave.com/)",
   "license": "ISC",
