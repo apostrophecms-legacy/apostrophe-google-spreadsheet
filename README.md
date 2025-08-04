@@ -1,3 +1,7 @@
+# ⛔️ **DEPRECATED** — do not use for new projects
+
+See [our current docs](https://docs.apostrophecms.org/)
+
 # Apostrophe Google Spreadsheet
 
 Apostrophe Google Spreadsheet allows you to connect a spreadsheet in Google Drive with your MongoDB, convert/sync the data at your whim and query the collection later on.
